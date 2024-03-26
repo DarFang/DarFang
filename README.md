@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Networking**
 
-- 👨‍💻 All of my game dev projects are available here: [Github  Game Dev List](https://github.com/stars/DarFang/lists/darfang-portfolio-game-dev)
+- 👨‍💻 All of my game dev projects are available on [itch.io](https://dariusfang.itch.io/)
 
 - 💬 Ask me about **Anything**
 
